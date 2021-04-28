@@ -1,4 +1,10 @@
 ### ¯¯\_(ツ)\_/¯¯ Hi there 👋 Nice to meet you. 🍻
+<br/>
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/Dev-1102/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=Dev-1102&color=DE002D">
+    </a>
+</div>
 
 ![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
