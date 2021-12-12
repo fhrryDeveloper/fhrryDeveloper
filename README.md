@@ -10,8 +10,11 @@
 ![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working as a web and mobile app developer.
-- 🌱 I’m currently learning Ionic.
+- 🔭 I’m currently working as a blockchain, web and mobile app developer.
+- 🌱 I’m currently learning Ruby.
 - 👯 I’m looking to collaborate on web and app development.
-- ⚽ My main skills are React,Redux, Python, Go, Node, Angular, PHP, Laravel, Ionic,PSD to HTML, UX design, UI design, web scrapping and etc.
+- ⚽ Here are my main skills:
+        web skills: React, Node, Angular, Laravel, Express, PHP, CSS, SCSS, HTML, JQuery, Javascript, Python, Ruby, Rails, Web design, MongoDB, MySQL, PostgreSQL and etc
+        app skills: Ionic, React-native, Adalo, Framework 7
+        blockchain: Create new toke and sale, Web3.js, Solidity, Smart Contract, NFT, Crypto Payment, Wallet Connect, trading bot and etc.
   -->
