@@ -7,12 +7,12 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="display: grid">
     <a href="https://github.com/better-think?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true&hide_border=true&hide_rank=true" width="500px" />
     </a>
     <a href="https://github.com/better-think?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact" width="500px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact&hide_border=true" width="500px" />
     </a>
 </div>
 
