@@ -11,7 +11,7 @@
 
 <div align="center">
     <a href="https://app.daily.dev/DailyDevTips">
-        <img src="https://github.com/fhrrydeveloper/fhrrydeveloper/blob/master/devcard.svg" width="600" alt="Fhrrydeveloper's Dev Card"/>
+        <img src="https://github.com/fhrrydeveloper/fhrrydeveloper/blob/master/devcard.svg" width="350" alt="Fhrrydeveloper's Dev Card"/>
     </a>
 </div>
 <br/>
