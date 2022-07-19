@@ -19,6 +19,10 @@
     </a>
 </div>
 
+<div align="center">
+    <a href="https://app.daily.dev/fhrrydeveloper"><img src="https://api.daily.dev/devcards/2e389ef2ea154d0f958fb30b41daa777.png?r=dik" width="400" alt="Full-Stack Dev's Dev Card"/></a>
+</div>
+
 - 🔭 I’m currently working as a blockchain, web and mobile app developer.
 - 🌱 I’m currently learning new skills continue.
 - 👯 I’m looking to collaborate on web and app development.
