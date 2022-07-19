@@ -6,8 +6,15 @@
 </div>
 
 <br/>
-![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+    <a href="https://github.com/better-think?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true&hide_border=true&hide_rank=true" width="500px" />
+    </a>
+    <a href="https://github.com/better-think?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact" width="500px" />
+    </a>
+</div>
 
 - 🔭 I’m currently working as a blockchain, web and mobile app developer.
 - 🌱 I’m currently learning new skills continue.
