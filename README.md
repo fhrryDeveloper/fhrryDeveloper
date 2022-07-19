@@ -10,9 +10,7 @@
 
 
 <div align="center">
-    <a href="https://app.daily.dev/DailyDevTips">
-        <img src="https://github.com/fhrrydeveloper/fhrrydeveloper/blob/master/devcard.svg" width="450" alt="Fhrrydeveloper's Dev Card"/>
-    </a>
+    <a href="https://app.daily.dev/fhrrydeveloper"><img src="https://api.daily.dev/devcards/2e389ef2ea154d0f958fb30b41daa777.png?r=dik" width="450" alt="Full-Stack Dev's Dev Card" data-xblocker="passed" style="visibility: visible;"></a>
 </div>
 <br/>
 <div align="center">
