@@ -6,10 +6,10 @@
 </div>
 
 <br/>
-
+<div align="center">
 ![Topdeveloper0729's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 - 🔭 I’m currently working as a blockchain, web and mobile app developer.
 - 🌱 I’m currently learning new skills continue.
 - 👯 I’m looking to collaborate on web and app development.
