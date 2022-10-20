@@ -1,5 +1,4 @@
 ### ¯¯\_(ツ)\_/¯¯ Hi there 👋 Nice to meet you. 🍻
-Hi Boomber. My telegram username is block_delta
 
 <div align="center" style="margin: 40px 0">
     <a href="https://github.com/Dev-1102/github-profile-views-counter">
