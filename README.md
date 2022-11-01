@@ -9,12 +9,12 @@
 <br/>
 
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://app.daily.dev/DailyDevTips">
         <img src="https://github.com/fhrrydeveloper/fhrrydeveloper/blob/master/devcard.svg" width="350" alt="Fhrrydeveloper's Dev Card"/>
     </a>
 </div>
-<br/>
+<br/> -->
 <div align="center">
     <a href="https://github.com/fhrrydeveloper?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true&hide_border=true&hide_rank=true" width="500px" />
