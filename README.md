@@ -15,13 +15,18 @@
     </a>
 </div>
 <br/> -->
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/fhrrydeveloper?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=fhrryDeveloper&show_icons=true&hide_border=true&hide_rank=true" width="500px" />
     </a>
     <a href="https://github.com/fhrrydeveloper?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrryDeveloper&layout=compact&hide_border=true" width="500px" />
     </a>
+</div> -->
+<div align="center">
+  <a href="https://github.com/fhrrydeveloper">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhrrydeveloper&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrrydeveloper&layout=compact&langs_count=6"/>
 </div>
 
 - 🔭 I’m currently working as a blockchain, web and mobile app developer.
