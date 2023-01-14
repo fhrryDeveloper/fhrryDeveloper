@@ -28,6 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fhrrydeveloper&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrrydeveloper&layout=compact&langs_count=6"/>
 </div>
+<br/>
 
 - 🔭 I’m currently working as a blockchain, web and mobile app developer.
 - 🌱 I’m currently learning new skills continue.
