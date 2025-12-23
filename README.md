@@ -61,16 +61,11 @@
 <br>
 
           - 💼 I’m currently working as a blockchain, web and mobile app developer. 
-          <br>
           - ✍ I’m currently learning new skills continue. 
-          <br>
           - 🔭 I’m looking a job related Web and Blockchain Development. 
-          <br>
-          <br>
+          
           - 💎 Here are my main skills:
-          <br>
+          
           Web: React, Node, Angular, Laravel, Express, PHP, CSS, SCSS, HTML, JQuery, Javascript, Python, Ruby, Rails, Web design, MongoDB, MySQL, PostgreSQL and etc 
-          <br>
           Mobile app: Ionic, React-native, Adalo, Framework 7 
-          <br>
           Blockchain: Dapp, Web3.js, ethers.js, NFT, Metaverse, Defi, Solidity, Rust, Smart Contract, NFT, Crypto Payment, Wallet Connect, Staking, Swap, trading bot.
